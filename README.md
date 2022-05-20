@@ -1,1 +1,3 @@
-# project-1
+# Project1: Price Prediction Model
+### A practice project with some statistics and hands on coding!!!
+This project is using some basic Data cleaning and feature engineering tools with Machine Learning Algorithms for prediction. Diving into the journey...
